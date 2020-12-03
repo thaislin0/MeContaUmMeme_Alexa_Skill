@@ -1,0 +1,44 @@
+{
+  "interactionModel": {
+    "languageModel": {
+      "invocationName": "memes",
+      "intents": [
+        {
+          "name": "AMAZON.CancelIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.HelpIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.StopIntent",
+          "samples": []
+        },
+        {
+          "name": "MemeIntent",
+          "slots": [],
+          "samples": [
+            "conta outro",
+            "tem outro meme ai",
+            "me conta outro meme",
+            "fala outro meme",
+            "meme",
+            "fala um meme",
+            "fala um meme ai",
+            "fala um meme legal",
+            "me conta sobre um meme",
+            "diga um meme",
+            "me diga um meme"
+          ]
+        },
+        {
+          "name": "AMAZON.NavigateHomeIntent",
+          "samples": []
+        }
+      ],
+      "types": []
+    }
+  },
+  "version": "4"
+}
